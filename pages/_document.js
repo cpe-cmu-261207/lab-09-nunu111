@@ -10,6 +10,22 @@ export default function Document() {
           integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
           crossOrigin="anonymous"
         />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap"
+          rel="stylesheet"
+        />
+        <link
+          rel="icon"
+          type="image/x-icon"
+          href="img/icons8-portfolio-50.png"
+        />
       </Head>
       <body>
         <Main />
